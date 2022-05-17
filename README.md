@@ -6,17 +6,17 @@
   <a href="https://github.com/cairoaraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cairoaraujo&count_private=true&show_icons=true&theme=tokyonight&hide=issues,prs,contributed)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
-<h3>Main languages</h1>
 <div style="display: inline_block"><br>
+  <h3>Main languages</h3>
   <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
-<h3>Main Technologies</h1>
   
 <div style="display: inline_block"><br>
+  <h3>Main Technologies</h1>
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
